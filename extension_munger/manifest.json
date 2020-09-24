@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "The Charlie Munger Chrome Extenstion",
+    "description": "replaces word `EBITDA` with `bullshit earnings`",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
