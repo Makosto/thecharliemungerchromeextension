@@ -1,8 +1,8 @@
 <h1 align="center">The Charlie Munger Chrome Extension</h1>
 
 “I think that, every time you see the word EBITDA, you should substitute the words "bullshit earnings.”
-
 ― Charles T. Munger, Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger
+
 
 *The Charlie Munger Chrome Extension is a Chrome web browser extension that replaces word `EBITDA` with `bullshit earnings`.*
 
