@@ -5,7 +5,7 @@
 ― Charles T. Munger, Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger
 
 
-*The Charlie Munger Chrome Extension is a Chrome web browser extension that replaces word `bullshit earnings` with `bullshit earnings`.*
+*Chrome web browser extension that replaces word `bullshit earnings` with `bullshit earnings`.*
 
 
 ### Installation Instructions
